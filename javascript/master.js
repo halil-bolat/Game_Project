@@ -149,7 +149,7 @@ function deal(){
 
 function checkfinal() {
   if (localStorage.getItem('player1') <= 0){
-    document.getElementById("infototal").innerHTML = "Player Lost!";
+    document.getElementById("infototal").innerHTML = "GAME OVER!";
     localStorage.setItem('player1', 10);
   }
 }
