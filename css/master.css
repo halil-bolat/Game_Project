@@ -49,7 +49,7 @@ h1 {
   display: none;
 }
 #player2div #player2second{
-  background-image: url("PNG/blue_back.png");
+  background-image: url("../PNG/blue_back.png");
   background-size: cover;
 }
 
@@ -59,7 +59,7 @@ h1 {
   margin-left: 100px;
   height: 500px;
   width: 500px;
-  background-image: url('PNG/background.jpg');
+  background-image: url('../PNG/background.jpg');
   background-size: cover;
 }
 
